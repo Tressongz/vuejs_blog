@@ -63,11 +63,26 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="7a458419-3d21-47fd-aec1-7491e16635f3">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+        <entry key="e297ae42-dbc4-4bf4-ba20-7996fae51429">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7a458419-3d21-47fd-aec1-7491e16635f3" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
